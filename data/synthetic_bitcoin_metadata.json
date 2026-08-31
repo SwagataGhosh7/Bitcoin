@@ -1,0 +1,3038 @@
+[
+  {
+    "timestamp": "2026-08-01T00:00:00Z",
+    "src_ip": "10.10.20.11",
+    "dst_ip": "10.10.20.12",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000000a5506b5012",
+    "input_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3"
+    ],
+    "output_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q",
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      2338.0137999999997
+    ],
+    "output_amounts": [
+      1823.63,
+      514.36
+    ],
+    "fee": 0.0238,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1000"
+  },
+  {
+    "timestamp": "2026-08-01T01:07:00Z",
+    "src_ip": "10.10.20.12",
+    "dst_ip": "10.10.20.13",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000001a9935b2424",
+    "input_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk"
+    ],
+    "output_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s",
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      888.8705
+    ],
+    "output_amounts": [
+      693.22,
+      195.52
+    ],
+    "fee": 0.1305,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1001"
+  },
+  {
+    "timestamp": "2026-08-01T02:14:00Z",
+    "src_ip": "10.10.20.13",
+    "dst_ip": "10.10.20.14",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000002a2535b4582",
+    "input_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q"
+    ],
+    "output_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3",
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      2181.7448
+    ],
+    "output_amounts": [
+      1701.74,
+      479.98
+    ],
+    "fee": 0.0248,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1002"
+  },
+  {
+    "timestamp": "2026-08-01T03:21:00Z",
+    "src_ip": "10.10.20.14",
+    "dst_ip": "10.10.20.15",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000003a4257b9928",
+    "input_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s"
+    ],
+    "output_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk",
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      936.9203
+    ],
+    "output_amounts": [
+      730.71,
+      206.1
+    ],
+    "fee": 0.1103,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "NL",
+    "asn": "AS1003"
+  },
+  {
+    "timestamp": "2026-08-01T04:28:00Z",
+    "src_ip": "10.10.20.15",
+    "dst_ip": "10.10.20.11",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000004a5557b1106",
+    "input_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3"
+    ],
+    "output_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q",
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      1598.4073999999998
+    ],
+    "output_amounts": [
+      1246.69,
+      351.63
+    ],
+    "fee": 0.0874,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1004"
+  },
+  {
+    "timestamp": "2026-08-01T05:35:00Z",
+    "src_ip": "10.10.20.11",
+    "dst_ip": "10.10.20.12",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000005a7924b6574",
+    "input_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk"
+    ],
+    "output_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s",
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      2793.3739
+    ],
+    "output_amounts": [
+      2178.8,
+      614.53
+    ],
+    "fee": 0.0439,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1005"
+  },
+  {
+    "timestamp": "2026-08-01T06:42:00Z",
+    "src_ip": "10.10.20.12",
+    "dst_ip": "10.10.20.13",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000006a6514b2674",
+    "input_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q"
+    ],
+    "output_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3",
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      1117.6023
+    ],
+    "output_amounts": [
+      871.69,
+      245.86
+    ],
+    "fee": 0.0523,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1006"
+  },
+  {
+    "timestamp": "2026-08-01T07:49:00Z",
+    "src_ip": "10.10.20.13",
+    "dst_ip": "10.10.20.14",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000007a6635b5333",
+    "input_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s"
+    ],
+    "output_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk",
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      477.1445
+    ],
+    "output_amounts": [
+      372.15,
+      104.96
+    ],
+    "fee": 0.0345,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1007"
+  },
+  {
+    "timestamp": "2026-08-01T08:56:00Z",
+    "src_ip": "10.10.20.14",
+    "dst_ip": "10.10.20.15",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000008a9785b3045",
+    "input_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3"
+    ],
+    "output_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q",
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      2985.0795
+    ],
+    "output_amounts": [
+      2328.26,
+      656.69
+    ],
+    "fee": 0.1295,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "NL",
+    "asn": "AS1008"
+  },
+  {
+    "timestamp": "2026-08-01T09:03:00Z",
+    "src_ip": "10.10.20.15",
+    "dst_ip": "10.10.20.11",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000009a5803b6925",
+    "input_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk"
+    ],
+    "output_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s",
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      3573.4867999999997
+    ],
+    "output_amounts": [
+      2787.26,
+      786.15
+    ],
+    "fee": 0.0768,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1009"
+  },
+  {
+    "timestamp": "2026-08-01T10:10:00Z",
+    "src_ip": "10.10.20.11",
+    "dst_ip": "10.10.20.12",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0000000aa1750b4733",
+    "input_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q"
+    ],
+    "output_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3",
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      2195.8557
+    ],
+    "output_amounts": [
+      1712.67,
+      483.06
+    ],
+    "fee": 0.1257,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1010"
+  },
+  {
+    "timestamp": "2026-08-01T11:17:00Z",
+    "src_ip": "10.10.20.12",
+    "dst_ip": "10.10.20.13",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0000000ba4814b2654",
+    "input_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s"
+    ],
+    "output_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk",
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      2888.4078
+    ],
+    "output_amounts": [
+      2252.83,
+      635.41
+    ],
+    "fee": 0.1678,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1011"
+  },
+  {
+    "timestamp": "2026-08-01T12:24:00Z",
+    "src_ip": "10.10.20.13",
+    "dst_ip": "10.10.20.14",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0000000ca6977b3664",
+    "input_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3"
+    ],
+    "output_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q",
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      1520.528
+    ],
+    "output_amounts": [
+      1185.94,
+      334.5
+    ],
+    "fee": 0.088,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1012"
+  },
+  {
+    "timestamp": "2026-08-01T13:31:00Z",
+    "src_ip": "10.10.20.14",
+    "dst_ip": "10.10.20.15",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0000000da5374b2169",
+    "input_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk"
+    ],
+    "output_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s",
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      1493.1814000000002
+    ],
+    "output_amounts": [
+      1164.64,
+      328.49
+    ],
+    "fee": 0.0514,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "NL",
+    "asn": "AS1013"
+  },
+  {
+    "timestamp": "2026-08-01T14:38:00Z",
+    "src_ip": "10.10.20.15",
+    "dst_ip": "10.10.20.11",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0000000ea5010b3677",
+    "input_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q"
+    ],
+    "output_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3",
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      2337.0057
+    ],
+    "output_amounts": [
+      1822.83,
+      514.13
+    ],
+    "fee": 0.0457,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1014"
+  },
+  {
+    "timestamp": "2026-08-01T15:45:00Z",
+    "src_ip": "10.10.20.11",
+    "dst_ip": "10.10.20.12",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0000000fa4598b6313",
+    "input_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s"
+    ],
+    "output_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk",
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      1830.4705000000001
+    ],
+    "output_amounts": [
+      1427.72,
+      402.69
+    ],
+    "fee": 0.0605,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1015"
+  },
+  {
+    "timestamp": "2026-08-01T16:52:00Z",
+    "src_ip": "10.10.20.12",
+    "dst_ip": "10.10.20.13",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000010a4752b1525",
+    "input_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3"
+    ],
+    "output_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q",
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      3170.1164
+    ],
+    "output_amounts": [
+      2472.58,
+      697.4
+    ],
+    "fee": 0.1364,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1016"
+  },
+  {
+    "timestamp": "2026-08-01T17:59:00Z",
+    "src_ip": "10.10.20.13",
+    "dst_ip": "10.10.20.14",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000011a2084b4456",
+    "input_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk"
+    ],
+    "output_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s",
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      3045.2401999999997
+    ],
+    "output_amounts": [
+      2375.22,
+      669.94
+    ],
+    "fee": 0.0802,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1017"
+  },
+  {
+    "timestamp": "2026-08-01T18:06:00Z",
+    "src_ip": "10.10.20.14",
+    "dst_ip": "10.10.20.15",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000012a6155b4483",
+    "input_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q"
+    ],
+    "output_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3",
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      3431.0851000000002
+    ],
+    "output_amounts": [
+      2676.16,
+      754.82
+    ],
+    "fee": 0.1051,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "NL",
+    "asn": "AS1018"
+  },
+  {
+    "timestamp": "2026-08-01T19:13:00Z",
+    "src_ip": "10.10.20.15",
+    "dst_ip": "10.10.20.11",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000013a8517b3340",
+    "input_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s"
+    ],
+    "output_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk",
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      2536.6193
+    ],
+    "output_amounts": [
+      1978.5,
+      558.04
+    ],
+    "fee": 0.0793,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1019"
+  },
+  {
+    "timestamp": "2026-08-01T20:20:00Z",
+    "src_ip": "10.10.20.11",
+    "dst_ip": "10.10.20.12",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000014a9830b5304",
+    "input_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3"
+    ],
+    "output_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q",
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      1177.137
+    ],
+    "output_amounts": [
+      918.12,
+      258.96
+    ],
+    "fee": 0.057,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1020"
+  },
+  {
+    "timestamp": "2026-08-01T21:27:00Z",
+    "src_ip": "10.10.20.12",
+    "dst_ip": "10.10.20.13",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000015a7543b6930",
+    "input_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk"
+    ],
+    "output_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s",
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      2872.1343
+    ],
+    "output_amounts": [
+      2240.2,
+      631.85
+    ],
+    "fee": 0.0843,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1021"
+  },
+  {
+    "timestamp": "2026-08-01T22:34:00Z",
+    "src_ip": "10.10.20.13",
+    "dst_ip": "10.10.20.14",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000016a9348b9085",
+    "input_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q"
+    ],
+    "output_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3",
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      1032.7895999999998
+    ],
+    "output_amounts": [
+      805.44,
+      227.18
+    ],
+    "fee": 0.1696,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1022"
+  },
+  {
+    "timestamp": "2026-08-01T23:41:00Z",
+    "src_ip": "10.10.20.14",
+    "dst_ip": "10.10.20.15",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000017a2796b3504",
+    "input_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s"
+    ],
+    "output_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk",
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      590.7071
+    ],
+    "output_amounts": [
+      460.73,
+      129.95
+    ],
+    "fee": 0.0271,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "NL",
+    "asn": "AS1023"
+  },
+  {
+    "timestamp": "2026-08-01T00:48:00Z",
+    "src_ip": "10.10.20.15",
+    "dst_ip": "10.10.20.11",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000018a7916b2040",
+    "input_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3"
+    ],
+    "output_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q",
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      2476.1988
+    ],
+    "output_amounts": [
+      1931.33,
+      544.73
+    ],
+    "fee": 0.1388,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1024"
+  },
+  {
+    "timestamp": "2026-08-01T01:55:00Z",
+    "src_ip": "10.10.20.11",
+    "dst_ip": "10.10.20.12",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000019a8668b9669",
+    "input_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk"
+    ],
+    "output_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s",
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      1634.2994
+    ],
+    "output_amounts": [
+      1274.67,
+      359.52
+    ],
+    "fee": 0.1094,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1025"
+  },
+  {
+    "timestamp": "2026-08-01T02:02:00Z",
+    "src_ip": "10.10.20.12",
+    "dst_ip": "10.10.20.13",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0000001aa1188b2876",
+    "input_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q"
+    ],
+    "output_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3",
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      1175.053
+    ],
+    "output_amounts": [
+      916.46,
+      258.49
+    ],
+    "fee": 0.103,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1026"
+  },
+  {
+    "timestamp": "2026-08-01T03:09:00Z",
+    "src_ip": "10.10.20.13",
+    "dst_ip": "10.10.20.14",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0000001ba5371b6573",
+    "input_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s"
+    ],
+    "output_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk",
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      2688.5905
+    ],
+    "output_amounts": [
+      2097.02,
+      591.47
+    ],
+    "fee": 0.1005,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1027"
+  },
+  {
+    "timestamp": "2026-08-01T04:16:00Z",
+    "src_ip": "10.10.20.14",
+    "dst_ip": "10.10.20.15",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0000001ca8433b1053",
+    "input_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3"
+    ],
+    "output_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q",
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      700.5151999999999
+    ],
+    "output_amounts": [
+      546.34,
+      154.09
+    ],
+    "fee": 0.0852,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "NL",
+    "asn": "AS1028"
+  },
+  {
+    "timestamp": "2026-08-01T05:23:00Z",
+    "src_ip": "10.10.20.15",
+    "dst_ip": "10.10.20.11",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0000001da5315b9201",
+    "input_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk"
+    ],
+    "output_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s",
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      3656.0114000000003
+    ],
+    "output_amounts": [
+      2851.57,
+      804.29
+    ],
+    "fee": 0.1514,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1029"
+  },
+  {
+    "timestamp": "2026-08-01T06:30:00Z",
+    "src_ip": "10.10.20.11",
+    "dst_ip": "10.10.20.12",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0000001ea2743b5889",
+    "input_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q"
+    ],
+    "output_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3",
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      2991.9662
+    ],
+    "output_amounts": [
+      2333.66,
+      658.21
+    ],
+    "fee": 0.0962,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1030"
+  },
+  {
+    "timestamp": "2026-08-01T07:37:00Z",
+    "src_ip": "10.10.20.12",
+    "dst_ip": "10.10.20.13",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0000001fa4258b3504",
+    "input_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s"
+    ],
+    "output_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk",
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      3278.4361000000004
+    ],
+    "output_amounts": [
+      2557.11,
+      721.23
+    ],
+    "fee": 0.0961,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1031"
+  },
+  {
+    "timestamp": "2026-08-01T08:44:00Z",
+    "src_ip": "10.10.20.13",
+    "dst_ip": "10.10.20.14",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000020a9689b1009",
+    "input_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3"
+    ],
+    "output_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q",
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      1648.7442
+    ],
+    "output_amounts": [
+      1285.99,
+      362.71
+    ],
+    "fee": 0.0442,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1032"
+  },
+  {
+    "timestamp": "2026-08-01T09:51:00Z",
+    "src_ip": "10.10.20.14",
+    "dst_ip": "10.10.20.15",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000021a2832b6947",
+    "input_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk"
+    ],
+    "output_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s",
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      2443.9033
+    ],
+    "output_amounts": [
+      1906.17,
+      537.64
+    ],
+    "fee": 0.0933,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "NL",
+    "asn": "AS1033"
+  },
+  {
+    "timestamp": "2026-08-01T10:58:00Z",
+    "src_ip": "10.10.20.15",
+    "dst_ip": "10.10.20.11",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000022a6038b4923",
+    "input_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q"
+    ],
+    "output_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3",
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      3430.6747
+    ],
+    "output_amounts": [
+      2675.81,
+      754.72
+    ],
+    "fee": 0.1447,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1034"
+  },
+  {
+    "timestamp": "2026-08-01T11:05:00Z",
+    "src_ip": "10.10.20.11",
+    "dst_ip": "10.10.20.12",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000023a2290b2403",
+    "input_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s"
+    ],
+    "output_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk",
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      565.3917
+    ],
+    "output_amounts": [
+      440.89,
+      124.35
+    ],
+    "fee": 0.1517,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1035"
+  },
+  {
+    "timestamp": "2026-08-01T12:12:00Z",
+    "src_ip": "10.10.20.12",
+    "dst_ip": "10.10.20.13",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000024a9727b3060",
+    "input_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3"
+    ],
+    "output_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q",
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      2931.8224
+    ],
+    "output_amounts": [
+      2286.71,
+      644.97
+    ],
+    "fee": 0.1424,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1036"
+  },
+  {
+    "timestamp": "2026-08-01T13:19:00Z",
+    "src_ip": "10.10.20.13",
+    "dst_ip": "10.10.20.14",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000025a3705b5342",
+    "input_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk"
+    ],
+    "output_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s",
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      826.9613
+    ],
+    "output_amounts": [
+      644.96,
+      181.91
+    ],
+    "fee": 0.0913,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1037"
+  },
+  {
+    "timestamp": "2026-08-01T14:26:00Z",
+    "src_ip": "10.10.20.14",
+    "dst_ip": "10.10.20.15",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000026a4470b9835",
+    "input_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q"
+    ],
+    "output_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3",
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      2231.971
+    ],
+    "output_amounts": [
+      1740.85,
+      491.01
+    ],
+    "fee": 0.111,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "NL",
+    "asn": "AS1038"
+  },
+  {
+    "timestamp": "2026-08-01T15:33:00Z",
+    "src_ip": "10.10.20.15",
+    "dst_ip": "10.10.20.11",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000027a6107b7537",
+    "input_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s"
+    ],
+    "output_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk",
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      3036.0535
+    ],
+    "output_amounts": [
+      2368.03,
+      667.9
+    ],
+    "fee": 0.1235,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1039"
+  },
+  {
+    "timestamp": "2026-08-01T16:40:00Z",
+    "src_ip": "10.10.20.11",
+    "dst_ip": "10.10.20.12",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000028a8177b9479",
+    "input_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3"
+    ],
+    "output_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q",
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      3883.1375
+    ],
+    "output_amounts": [
+      3028.76,
+      854.26
+    ],
+    "fee": 0.1175,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1040"
+  },
+  {
+    "timestamp": "2026-08-01T17:47:00Z",
+    "src_ip": "10.10.20.12",
+    "dst_ip": "10.10.20.13",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000029a2049b6539",
+    "input_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk"
+    ],
+    "output_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s",
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      1987.7572
+    ],
+    "output_amounts": [
+      1550.41,
+      437.29
+    ],
+    "fee": 0.0572,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1041"
+  },
+  {
+    "timestamp": "2026-08-01T18:54:00Z",
+    "src_ip": "10.10.20.13",
+    "dst_ip": "10.10.20.14",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0000002aa4608b1117",
+    "input_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q"
+    ],
+    "output_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3",
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      488.7231
+    ],
+    "output_amounts": [
+      381.12,
+      107.5
+    ],
+    "fee": 0.1031,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1042"
+  },
+  {
+    "timestamp": "2026-08-01T19:01:00Z",
+    "src_ip": "10.10.20.14",
+    "dst_ip": "10.10.20.15",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0000002ba4750b2104",
+    "input_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s"
+    ],
+    "output_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk",
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      671.0947
+    ],
+    "output_amounts": [
+      523.36,
+      147.62
+    ],
+    "fee": 0.1147,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "NL",
+    "asn": "AS1043"
+  },
+  {
+    "timestamp": "2026-08-01T20:08:00Z",
+    "src_ip": "10.10.20.15",
+    "dst_ip": "10.10.20.11",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0000002ca2160b9423",
+    "input_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3"
+    ],
+    "output_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q",
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      3599.1189
+    ],
+    "output_amounts": [
+      2807.2,
+      791.77
+    ],
+    "fee": 0.1489,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1044"
+  },
+  {
+    "timestamp": "2026-08-01T21:15:00Z",
+    "src_ip": "10.10.20.11",
+    "dst_ip": "10.10.20.12",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0000002da4510b9834",
+    "input_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk"
+    ],
+    "output_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s",
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      1270.6403
+    ],
+    "output_amounts": [
+      991.01,
+      279.51
+    ],
+    "fee": 0.1203,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1045"
+  },
+  {
+    "timestamp": "2026-08-01T22:22:00Z",
+    "src_ip": "10.10.20.12",
+    "dst_ip": "10.10.20.13",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0000002ea8744b4981",
+    "input_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q"
+    ],
+    "output_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3",
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      908.2503
+    ],
+    "output_amounts": [
+      708.31,
+      199.78
+    ],
+    "fee": 0.1603,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1046"
+  },
+  {
+    "timestamp": "2026-08-01T23:29:00Z",
+    "src_ip": "10.10.20.13",
+    "dst_ip": "10.10.20.14",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0000002fa4119b2545",
+    "input_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s"
+    ],
+    "output_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk",
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      3198.8111
+    ],
+    "output_amounts": [
+      2494.96,
+      703.71
+    ],
+    "fee": 0.1411,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1047"
+  },
+  {
+    "timestamp": "2026-08-01T00:36:00Z",
+    "src_ip": "10.10.20.14",
+    "dst_ip": "10.10.20.15",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000030a7939b7735",
+    "input_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3"
+    ],
+    "output_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q",
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      799.3447
+    ],
+    "output_amounts": [
+      623.42,
+      175.84
+    ],
+    "fee": 0.0847,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "NL",
+    "asn": "AS1048"
+  },
+  {
+    "timestamp": "2026-08-01T01:43:00Z",
+    "src_ip": "10.10.20.15",
+    "dst_ip": "10.10.20.11",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000031a2612b1993",
+    "input_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk"
+    ],
+    "output_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s",
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      2102.2194
+    ],
+    "output_amounts": [
+      1639.63,
+      462.46
+    ],
+    "fee": 0.1294,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1049"
+  },
+  {
+    "timestamp": "2026-08-01T02:50:00Z",
+    "src_ip": "10.10.20.11",
+    "dst_ip": "10.10.20.12",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000032a2790b5073",
+    "input_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q"
+    ],
+    "output_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3",
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      1884.2409
+    ],
+    "output_amounts": [
+      1469.65,
+      414.52
+    ],
+    "fee": 0.0709,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1000"
+  },
+  {
+    "timestamp": "2026-08-01T03:57:00Z",
+    "src_ip": "10.10.20.12",
+    "dst_ip": "10.10.20.13",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000033a3296b7912",
+    "input_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s"
+    ],
+    "output_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk",
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      1153.1704
+    ],
+    "output_amounts": [
+      899.39,
+      253.68
+    ],
+    "fee": 0.1004,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1001"
+  },
+  {
+    "timestamp": "2026-08-01T04:04:00Z",
+    "src_ip": "10.10.20.13",
+    "dst_ip": "10.10.20.14",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000034a2235b8260",
+    "input_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3"
+    ],
+    "output_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q",
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      1132.2994
+    ],
+    "output_amounts": [
+      883.12,
+      249.09
+    ],
+    "fee": 0.0894,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1002"
+  },
+  {
+    "timestamp": "2026-08-01T05:11:00Z",
+    "src_ip": "10.10.20.14",
+    "dst_ip": "10.10.20.15",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000035a2604b1828",
+    "input_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk"
+    ],
+    "output_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s",
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      3325.7284
+    ],
+    "output_amounts": [
+      2593.95,
+      731.63
+    ],
+    "fee": 0.1484,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "NL",
+    "asn": "AS1003"
+  },
+  {
+    "timestamp": "2026-08-01T06:18:00Z",
+    "src_ip": "10.10.20.15",
+    "dst_ip": "10.10.20.11",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000036a1241b2528",
+    "input_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q"
+    ],
+    "output_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3",
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      2787.6111
+    ],
+    "output_amounts": [
+      2174.26,
+      613.25
+    ],
+    "fee": 0.1011,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1004"
+  },
+  {
+    "timestamp": "2026-08-01T07:25:00Z",
+    "src_ip": "10.10.20.11",
+    "dst_ip": "10.10.20.12",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000037a3724b7658",
+    "input_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s"
+    ],
+    "output_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk",
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      3754.9273000000003
+    ],
+    "output_amounts": [
+      2928.73,
+      826.05
+    ],
+    "fee": 0.1473,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1005"
+  },
+  {
+    "timestamp": "2026-08-01T08:32:00Z",
+    "src_ip": "10.10.20.12",
+    "dst_ip": "10.10.20.13",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000038a7570b1960",
+    "input_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3"
+    ],
+    "output_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q",
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      2219.7920999999997
+    ],
+    "output_amounts": [
+      1731.4,
+      488.34
+    ],
+    "fee": 0.0521,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1006"
+  },
+  {
+    "timestamp": "2026-08-01T09:39:00Z",
+    "src_ip": "10.10.20.13",
+    "dst_ip": "10.10.20.14",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000039a7396b5345",
+    "input_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk"
+    ],
+    "output_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s",
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      1103.7503
+    ],
+    "output_amounts": [
+      860.91,
+      242.82
+    ],
+    "fee": 0.0203,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1007"
+  },
+  {
+    "timestamp": "2026-08-01T10:46:00Z",
+    "src_ip": "10.10.20.14",
+    "dst_ip": "10.10.20.15",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0000003aa5673b7930",
+    "input_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q"
+    ],
+    "output_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3",
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      3777.9478
+    ],
+    "output_amounts": [
+      2946.69,
+      831.12
+    ],
+    "fee": 0.1378,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "NL",
+    "asn": "AS1008"
+  },
+  {
+    "timestamp": "2026-08-01T11:53:00Z",
+    "src_ip": "10.10.20.15",
+    "dst_ip": "10.10.20.11",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0000003ba8973b3536",
+    "input_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s"
+    ],
+    "output_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk",
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      2980.6996000000004
+    ],
+    "output_amounts": [
+      2324.84,
+      655.73
+    ],
+    "fee": 0.1296,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1009"
+  },
+  {
+    "timestamp": "2026-08-01T12:00:00Z",
+    "src_ip": "10.10.20.11",
+    "dst_ip": "10.10.20.12",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0000003ca1958b9883",
+    "input_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3"
+    ],
+    "output_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q",
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      1214.6927
+    ],
+    "output_amounts": [
+      947.42,
+      267.22
+    ],
+    "fee": 0.0527,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1010"
+  },
+  {
+    "timestamp": "2026-08-01T13:07:00Z",
+    "src_ip": "10.10.20.12",
+    "dst_ip": "10.10.20.13",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0000003da1821b8811",
+    "input_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk"
+    ],
+    "output_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s",
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      770.917
+    ],
+    "output_amounts": [
+      601.26,
+      169.59
+    ],
+    "fee": 0.067,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1011"
+  },
+  {
+    "timestamp": "2026-08-01T14:14:00Z",
+    "src_ip": "10.10.20.13",
+    "dst_ip": "10.10.20.14",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0000003ea3579b1931",
+    "input_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q"
+    ],
+    "output_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3",
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      2325.1279
+    ],
+    "output_amounts": [
+      1813.48,
+      511.5
+    ],
+    "fee": 0.1479,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1012"
+  },
+  {
+    "timestamp": "2026-08-01T15:21:00Z",
+    "src_ip": "10.10.20.14",
+    "dst_ip": "10.10.20.15",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0000003fa4044b2122",
+    "input_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s"
+    ],
+    "output_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk",
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      3935.262
+    ],
+    "output_amounts": [
+      3069.48,
+      865.75
+    ],
+    "fee": 0.032,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "NL",
+    "asn": "AS1013"
+  },
+  {
+    "timestamp": "2026-08-01T16:28:00Z",
+    "src_ip": "10.10.20.15",
+    "dst_ip": "10.10.20.11",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000040a4853b7615",
+    "input_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3"
+    ],
+    "output_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q",
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      2662.7412999999997
+    ],
+    "output_amounts": [
+      2076.84,
+      585.78
+    ],
+    "fee": 0.1213,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1014"
+  },
+  {
+    "timestamp": "2026-08-01T17:35:00Z",
+    "src_ip": "10.10.20.11",
+    "dst_ip": "10.10.20.12",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000041a5033b1651",
+    "input_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk"
+    ],
+    "output_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s",
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      1007.2535
+    ],
+    "output_amounts": [
+      785.54,
+      221.56
+    ],
+    "fee": 0.1535,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1015"
+  },
+  {
+    "timestamp": "2026-08-01T18:42:00Z",
+    "src_ip": "10.10.20.12",
+    "dst_ip": "10.10.20.13",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000042a9565b6183",
+    "input_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q"
+    ],
+    "output_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3",
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      2762.9229
+    ],
+    "output_amounts": [
+      2155.02,
+      607.82
+    ],
+    "fee": 0.0829,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "US",
+    "asn": "AS1016"
+  },
+  {
+    "timestamp": "2026-08-01T19:49:00Z",
+    "src_ip": "10.10.20.13",
+    "dst_ip": "10.10.20.14",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000043a6147b4910",
+    "input_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s"
+    ],
+    "output_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk",
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      3874.0206
+    ],
+    "output_amounts": [
+      3021.7,
+      852.27
+    ],
+    "fee": 0.0506,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1017"
+  },
+  {
+    "timestamp": "2026-08-01T20:56:00Z",
+    "src_ip": "10.10.20.14",
+    "dst_ip": "10.10.20.15",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000044a5915b8491",
+    "input_addresses": [
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3"
+    ],
+    "output_addresses": [
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q",
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      1539.6896000000002
+    ],
+    "output_amounts": [
+      1200.93,
+      338.72
+    ],
+    "fee": 0.0396,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "NL",
+    "asn": "AS1018"
+  },
+  {
+    "timestamp": "2026-08-01T21:03:00Z",
+    "src_ip": "10.10.20.15",
+    "dst_ip": "10.10.20.11",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00000045a2188b1152",
+    "input_addresses": [
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk"
+    ],
+    "output_addresses": [
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s",
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      1724.2528
+    ],
+    "output_amounts": [
+      1344.81,
+      379.31
+    ],
+    "fee": 0.1328,
+    "script_type": "P2SH-P2WPKH",
+    "geo_country": "DE",
+    "asn": "AS1019"
+  },
+  {
+    "timestamp": "2026-08-01T22:10:00Z",
+    "src_ip": "192.168.1.10",
+    "dst_ip": "192.168.1.12",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00046c202d175",
+    "input_addresses": [
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "output_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w",
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s"
+    ],
+    "input_amounts": [
+      570.0299
+    ],
+    "output_amounts": [
+      455.95,
+      113.99
+    ],
+    "fee": 0.0899,
+    "script_type": "P2PKH",
+    "geo_country": "US",
+    "asn": "AS1020"
+  },
+  {
+    "timestamp": "2026-08-01T23:17:00Z",
+    "src_ip": "192.168.1.11",
+    "dst_ip": "192.168.1.13",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00047c235d457",
+    "input_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "output_addresses": [
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      665.2105
+    ],
+    "output_amounts": [
+      665.16
+    ],
+    "fee": 0.0505,
+    "script_type": "P2PKH",
+    "geo_country": "GB",
+    "asn": "AS1021"
+  },
+  {
+    "timestamp": "2026-08-01T00:24:00Z",
+    "src_ip": "192.168.1.12",
+    "dst_ip": "192.168.1.14",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00048c478d391",
+    "input_addresses": [
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "output_addresses": [
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      1077.1203
+    ],
+    "output_amounts": [
+      1077.04
+    ],
+    "fee": 0.0803,
+    "script_type": "P2PKH",
+    "geo_country": "FR",
+    "asn": "AS1022"
+  },
+  {
+    "timestamp": "2026-08-01T01:31:00Z",
+    "src_ip": "192.168.1.13",
+    "dst_ip": "192.168.1.10",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00049c820d409",
+    "input_addresses": [
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "output_addresses": [
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      209.3767
+    ],
+    "output_amounts": [
+      209.3
+    ],
+    "fee": 0.0767,
+    "script_type": "P2PKH",
+    "geo_country": "JP",
+    "asn": "AS1023"
+  },
+  {
+    "timestamp": "2026-08-01T02:38:00Z",
+    "src_ip": "192.168.1.14",
+    "dst_ip": "192.168.1.11",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0004ac769d641",
+    "input_addresses": [
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "output_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      754.099
+    ],
+    "output_amounts": [
+      754.01
+    ],
+    "fee": 0.089,
+    "script_type": "P2PKH",
+    "geo_country": "AU",
+    "asn": "AS1024"
+  },
+  {
+    "timestamp": "2026-08-01T03:45:00Z",
+    "src_ip": "192.168.1.10",
+    "dst_ip": "192.168.1.12",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0004bc406d779",
+    "input_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "output_addresses": [
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      29.4654
+    ],
+    "output_amounts": [
+      29.39
+    ],
+    "fee": 0.0754,
+    "script_type": "P2PKH",
+    "geo_country": "US",
+    "asn": "AS1025"
+  },
+  {
+    "timestamp": "2026-08-01T04:52:00Z",
+    "src_ip": "192.168.1.11",
+    "dst_ip": "192.168.1.13",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0004cc370d218",
+    "input_addresses": [
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "output_addresses": [
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      144.3803
+    ],
+    "output_amounts": [
+      144.3
+    ],
+    "fee": 0.0803,
+    "script_type": "P2PKH",
+    "geo_country": "GB",
+    "asn": "AS1026"
+  },
+  {
+    "timestamp": "2026-08-01T05:59:00Z",
+    "src_ip": "192.168.1.12",
+    "dst_ip": "192.168.1.14",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0004dc259d378",
+    "input_addresses": [
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "output_addresses": [
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3",
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q"
+    ],
+    "input_amounts": [
+      1087.7294000000002
+    ],
+    "output_amounts": [
+      870.13,
+      217.53
+    ],
+    "fee": 0.0694,
+    "script_type": "P2PKH",
+    "geo_country": "FR",
+    "asn": "AS1027"
+  },
+  {
+    "timestamp": "2026-08-01T06:06:00Z",
+    "src_ip": "192.168.1.13",
+    "dst_ip": "192.168.1.10",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0004ec451d308",
+    "input_addresses": [
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "output_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      358.1369
+    ],
+    "output_amounts": [
+      358.11
+    ],
+    "fee": 0.0269,
+    "script_type": "P2PKH",
+    "geo_country": "JP",
+    "asn": "AS1028"
+  },
+  {
+    "timestamp": "2026-08-01T07:13:00Z",
+    "src_ip": "192.168.1.14",
+    "dst_ip": "192.168.1.11",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0004fc617d600",
+    "input_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "output_addresses": [
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      845.0782
+    ],
+    "output_amounts": [
+      845.0
+    ],
+    "fee": 0.0782,
+    "script_type": "P2PKH",
+    "geo_country": "AU",
+    "asn": "AS1029"
+  },
+  {
+    "timestamp": "2026-08-01T08:20:00Z",
+    "src_ip": "192.168.1.10",
+    "dst_ip": "192.168.1.12",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00050c152d194",
+    "input_addresses": [
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "output_addresses": [
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      321.4327
+    ],
+    "output_amounts": [
+      321.35
+    ],
+    "fee": 0.0827,
+    "script_type": "P2PKH",
+    "geo_country": "US",
+    "asn": "AS1030"
+  },
+  {
+    "timestamp": "2026-08-01T09:27:00Z",
+    "src_ip": "192.168.1.11",
+    "dst_ip": "192.168.1.13",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00051c145d103",
+    "input_addresses": [
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "output_addresses": [
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      781.2162999999999
+    ],
+    "output_amounts": [
+      781.14
+    ],
+    "fee": 0.0763,
+    "script_type": "P2PKH",
+    "geo_country": "GB",
+    "asn": "AS1031"
+  },
+  {
+    "timestamp": "2026-08-01T10:34:00Z",
+    "src_ip": "192.168.1.12",
+    "dst_ip": "192.168.1.14",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00052c368d265",
+    "input_addresses": [
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "output_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      420.2905
+    ],
+    "output_amounts": [
+      420.27
+    ],
+    "fee": 0.0205,
+    "script_type": "P2PKH",
+    "geo_country": "FR",
+    "asn": "AS1032"
+  },
+  {
+    "timestamp": "2026-08-01T11:41:00Z",
+    "src_ip": "192.168.1.13",
+    "dst_ip": "192.168.1.10",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00053c537d674",
+    "input_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "output_addresses": [
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      909.5341
+    ],
+    "output_amounts": [
+      909.48
+    ],
+    "fee": 0.0541,
+    "script_type": "P2PKH",
+    "geo_country": "JP",
+    "asn": "AS1033"
+  },
+  {
+    "timestamp": "2026-08-01T12:48:00Z",
+    "src_ip": "192.168.1.14",
+    "dst_ip": "192.168.1.11",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00054c807d252",
+    "input_addresses": [
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "output_addresses": [
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3",
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk"
+    ],
+    "input_amounts": [
+      31.616
+    ],
+    "output_amounts": [
+      25.28,
+      6.32
+    ],
+    "fee": 0.016,
+    "script_type": "P2PKH",
+    "geo_country": "AU",
+    "asn": "AS1034"
+  },
+  {
+    "timestamp": "2026-08-01T13:55:00Z",
+    "src_ip": "192.168.1.10",
+    "dst_ip": "192.168.1.12",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00055c696d665",
+    "input_addresses": [
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "output_addresses": [
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      674.7868000000001
+    ],
+    "output_amounts": [
+      674.71
+    ],
+    "fee": 0.0768,
+    "script_type": "P2PKH",
+    "geo_country": "US",
+    "asn": "AS1035"
+  },
+  {
+    "timestamp": "2026-08-01T14:02:00Z",
+    "src_ip": "192.168.1.11",
+    "dst_ip": "192.168.1.13",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00056c415d473",
+    "input_addresses": [
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "output_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      197.7302
+    ],
+    "output_amounts": [
+      197.71
+    ],
+    "fee": 0.0202,
+    "script_type": "P2PKH",
+    "geo_country": "GB",
+    "asn": "AS1036"
+  },
+  {
+    "timestamp": "2026-08-01T15:09:00Z",
+    "src_ip": "192.168.1.12",
+    "dst_ip": "192.168.1.14",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00057c981d140",
+    "input_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "output_addresses": [
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      1098.8537
+    ],
+    "output_amounts": [
+      1098.78
+    ],
+    "fee": 0.0737,
+    "script_type": "P2PKH",
+    "geo_country": "FR",
+    "asn": "AS1037"
+  },
+  {
+    "timestamp": "2026-08-01T16:16:00Z",
+    "src_ip": "192.168.1.13",
+    "dst_ip": "192.168.1.10",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00058c355d782",
+    "input_addresses": [
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "output_addresses": [
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      1098.7368000000001
+    ],
+    "output_amounts": [
+      1098.71
+    ],
+    "fee": 0.0268,
+    "script_type": "P2PKH",
+    "geo_country": "JP",
+    "asn": "AS1038"
+  },
+  {
+    "timestamp": "2026-08-01T17:23:00Z",
+    "src_ip": "192.168.1.14",
+    "dst_ip": "192.168.1.11",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00059c995d516",
+    "input_addresses": [
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "output_addresses": [
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      143.42239999999998
+    ],
+    "output_amounts": [
+      143.35
+    ],
+    "fee": 0.0724,
+    "script_type": "P2PKH",
+    "geo_country": "AU",
+    "asn": "AS1039"
+  },
+  {
+    "timestamp": "2026-08-01T18:30:00Z",
+    "src_ip": "192.168.1.10",
+    "dst_ip": "192.168.1.12",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0005ac342d985",
+    "input_addresses": [
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "output_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      1188.6699999999998
+    ],
+    "output_amounts": [
+      1188.6
+    ],
+    "fee": 0.07,
+    "script_type": "P2PKH",
+    "geo_country": "US",
+    "asn": "AS1040"
+  },
+  {
+    "timestamp": "2026-08-01T19:37:00Z",
+    "src_ip": "192.168.1.11",
+    "dst_ip": "192.168.1.13",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0005bc281d522",
+    "input_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "output_addresses": [
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq",
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3"
+    ],
+    "input_amounts": [
+      215.074
+    ],
+    "output_amounts": [
+      172.0,
+      43.0
+    ],
+    "fee": 0.074,
+    "script_type": "P2PKH",
+    "geo_country": "GB",
+    "asn": "AS1041"
+  },
+  {
+    "timestamp": "2026-08-01T20:44:00Z",
+    "src_ip": "192.168.1.12",
+    "dst_ip": "192.168.1.14",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0005cc440d901",
+    "input_addresses": [
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "output_addresses": [
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      49.8089
+    ],
+    "output_amounts": [
+      49.74
+    ],
+    "fee": 0.0689,
+    "script_type": "P2PKH",
+    "geo_country": "FR",
+    "asn": "AS1042"
+  },
+  {
+    "timestamp": "2026-08-01T21:51:00Z",
+    "src_ip": "192.168.1.13",
+    "dst_ip": "192.168.1.10",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0005dc984d852",
+    "input_addresses": [
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "output_addresses": [
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      1137.0542
+    ],
+    "output_amounts": [
+      1136.98
+    ],
+    "fee": 0.0742,
+    "script_type": "P2PKH",
+    "geo_country": "JP",
+    "asn": "AS1043"
+  },
+  {
+    "timestamp": "2026-08-01T22:58:00Z",
+    "src_ip": "192.168.1.14",
+    "dst_ip": "192.168.1.11",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0005ec906d818",
+    "input_addresses": [
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "output_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      992.9313
+    ],
+    "output_amounts": [
+      992.9
+    ],
+    "fee": 0.0313,
+    "script_type": "P2PKH",
+    "geo_country": "AU",
+    "asn": "AS1044"
+  },
+  {
+    "timestamp": "2026-08-01T23:05:00Z",
+    "src_ip": "192.168.1.10",
+    "dst_ip": "192.168.1.12",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0005fc979d581",
+    "input_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "output_addresses": [
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      149.7898
+    ],
+    "output_amounts": [
+      149.71
+    ],
+    "fee": 0.0798,
+    "script_type": "P2PKH",
+    "geo_country": "US",
+    "asn": "AS1045"
+  },
+  {
+    "timestamp": "2026-08-01T00:12:00Z",
+    "src_ip": "192.168.1.11",
+    "dst_ip": "192.168.1.13",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00060c571d458",
+    "input_addresses": [
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "output_addresses": [
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      286.99530000000004
+    ],
+    "output_amounts": [
+      286.92
+    ],
+    "fee": 0.0753,
+    "script_type": "P2PKH",
+    "geo_country": "GB",
+    "asn": "AS1046"
+  },
+  {
+    "timestamp": "2026-08-01T01:19:00Z",
+    "src_ip": "192.168.1.12",
+    "dst_ip": "192.168.1.14",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00061c333d328",
+    "input_addresses": [
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "output_addresses": [
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      386.3036
+    ],
+    "output_amounts": [
+      386.23
+    ],
+    "fee": 0.0736,
+    "script_type": "P2PKH",
+    "geo_country": "FR",
+    "asn": "AS1047"
+  },
+  {
+    "timestamp": "2026-08-01T02:26:00Z",
+    "src_ip": "192.168.1.13",
+    "dst_ip": "192.168.1.10",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00062c436d385",
+    "input_addresses": [
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "output_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w",
+      "bc1q2m7u7h4p9j1l6n3x8z4r2v6h9t1q4k7c5m9s"
+    ],
+    "input_amounts": [
+      48.4255
+    ],
+    "output_amounts": [
+      38.72,
+      9.68
+    ],
+    "fee": 0.0255,
+    "script_type": "P2PKH",
+    "geo_country": "JP",
+    "asn": "AS1048"
+  },
+  {
+    "timestamp": "2026-08-01T03:33:00Z",
+    "src_ip": "192.168.1.14",
+    "dst_ip": "192.168.1.11",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00063c385d459",
+    "input_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "output_addresses": [
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      1057.3074
+    ],
+    "output_amounts": [
+      1057.22
+    ],
+    "fee": 0.0874,
+    "script_type": "P2PKH",
+    "geo_country": "AU",
+    "asn": "AS1049"
+  },
+  {
+    "timestamp": "2026-08-01T04:40:00Z",
+    "src_ip": "192.168.1.10",
+    "dst_ip": "192.168.1.12",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00064c963d649",
+    "input_addresses": [
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "output_addresses": [
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      789.822
+    ],
+    "output_amounts": [
+      789.78
+    ],
+    "fee": 0.042,
+    "script_type": "P2PKH",
+    "geo_country": "US",
+    "asn": "AS1000"
+  },
+  {
+    "timestamp": "2026-08-01T05:47:00Z",
+    "src_ip": "192.168.1.11",
+    "dst_ip": "192.168.1.13",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00065c998d367",
+    "input_addresses": [
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "output_addresses": [
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      417.3922
+    ],
+    "output_amounts": [
+      417.38
+    ],
+    "fee": 0.0122,
+    "script_type": "P2PKH",
+    "geo_country": "GB",
+    "asn": "AS1001"
+  },
+  {
+    "timestamp": "2026-08-01T06:54:00Z",
+    "src_ip": "192.168.1.12",
+    "dst_ip": "192.168.1.14",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00066c371d139",
+    "input_addresses": [
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "output_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      234.367
+    ],
+    "output_amounts": [
+      234.28
+    ],
+    "fee": 0.087,
+    "script_type": "P2PKH",
+    "geo_country": "FR",
+    "asn": "AS1002"
+  },
+  {
+    "timestamp": "2026-08-01T07:01:00Z",
+    "src_ip": "192.168.1.13",
+    "dst_ip": "192.168.1.10",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00067c846d905",
+    "input_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "output_addresses": [
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      150.12480000000002
+    ],
+    "output_amounts": [
+      150.08
+    ],
+    "fee": 0.0448,
+    "script_type": "P2PKH",
+    "geo_country": "JP",
+    "asn": "AS1003"
+  },
+  {
+    "timestamp": "2026-08-01T08:08:00Z",
+    "src_ip": "192.168.1.14",
+    "dst_ip": "192.168.1.11",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00068c623d218",
+    "input_addresses": [
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "output_addresses": [
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      396.4685
+    ],
+    "output_amounts": [
+      396.41
+    ],
+    "fee": 0.0585,
+    "script_type": "P2PKH",
+    "geo_country": "AU",
+    "asn": "AS1004"
+  },
+  {
+    "timestamp": "2026-08-01T09:15:00Z",
+    "src_ip": "192.168.1.10",
+    "dst_ip": "192.168.1.12",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00069c360d145",
+    "input_addresses": [
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "output_addresses": [
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3",
+      "bc1q5xv6t4d8p2k1j7n8u9n4w6r2z5m3v9y0f7a9q"
+    ],
+    "input_amounts": [
+      482.28610000000003
+    ],
+    "output_amounts": [
+      385.78,
+      96.45
+    ],
+    "fee": 0.0561,
+    "script_type": "P2PKH",
+    "geo_country": "US",
+    "asn": "AS1005"
+  },
+  {
+    "timestamp": "2026-08-01T10:22:00Z",
+    "src_ip": "192.168.1.11",
+    "dst_ip": "192.168.1.13",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0006ac925d651",
+    "input_addresses": [
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "output_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      870.5500999999999
+    ],
+    "output_amounts": [
+      870.54
+    ],
+    "fee": 0.0101,
+    "script_type": "P2PKH",
+    "geo_country": "GB",
+    "asn": "AS1006"
+  },
+  {
+    "timestamp": "2026-08-01T11:29:00Z",
+    "src_ip": "192.168.1.12",
+    "dst_ip": "192.168.1.14",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0006bc854d786",
+    "input_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "output_addresses": [
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      844.3152
+    ],
+    "output_amounts": [
+      844.23
+    ],
+    "fee": 0.0852,
+    "script_type": "P2PKH",
+    "geo_country": "FR",
+    "asn": "AS1007"
+  },
+  {
+    "timestamp": "2026-08-01T12:36:00Z",
+    "src_ip": "192.168.1.13",
+    "dst_ip": "192.168.1.10",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0006cc780d438",
+    "input_addresses": [
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "output_addresses": [
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      256.4845
+    ],
+    "output_amounts": [
+      256.44
+    ],
+    "fee": 0.0445,
+    "script_type": "P2PKH",
+    "geo_country": "JP",
+    "asn": "AS1008"
+  },
+  {
+    "timestamp": "2026-08-01T13:43:00Z",
+    "src_ip": "192.168.1.14",
+    "dst_ip": "192.168.1.11",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0006dc227d837",
+    "input_addresses": [
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "output_addresses": [
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      767.8530999999999
+    ],
+    "output_amounts": [
+      767.79
+    ],
+    "fee": 0.0631,
+    "script_type": "P2PKH",
+    "geo_country": "AU",
+    "asn": "AS1009"
+  },
+  {
+    "timestamp": "2026-08-01T14:50:00Z",
+    "src_ip": "192.168.1.10",
+    "dst_ip": "192.168.1.12",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0006ec782d518",
+    "input_addresses": [
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "output_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      1100.1106
+    ],
+    "output_amounts": [
+      1100.06
+    ],
+    "fee": 0.0506,
+    "script_type": "P2PKH",
+    "geo_country": "US",
+    "asn": "AS1010"
+  },
+  {
+    "timestamp": "2026-08-01T15:57:00Z",
+    "src_ip": "192.168.1.11",
+    "dst_ip": "192.168.1.13",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "0006fc667d230",
+    "input_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "output_addresses": [
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      411.48580000000004
+    ],
+    "output_amounts": [
+      411.42
+    ],
+    "fee": 0.0658,
+    "script_type": "P2PKH",
+    "geo_country": "GB",
+    "asn": "AS1011"
+  },
+  {
+    "timestamp": "2026-08-01T16:04:00Z",
+    "src_ip": "192.168.1.12",
+    "dst_ip": "192.168.1.14",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00070c488d793",
+    "input_addresses": [
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "output_addresses": [
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3",
+      "bc1q9m5nt3gzg9k7h9xv5u9p3zq3c2v8k7k0m9uhk"
+    ],
+    "input_amounts": [
+      250.2732
+    ],
+    "output_amounts": [
+      200.17,
+      50.04
+    ],
+    "fee": 0.0632,
+    "script_type": "P2PKH",
+    "geo_country": "FR",
+    "asn": "AS1012"
+  },
+  {
+    "timestamp": "2026-08-01T17:11:00Z",
+    "src_ip": "192.168.1.13",
+    "dst_ip": "192.168.1.10",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00071c682d408",
+    "input_addresses": [
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "output_addresses": [
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      917.7839
+    ],
+    "output_amounts": [
+      917.76
+    ],
+    "fee": 0.0239,
+    "script_type": "P2PKH",
+    "geo_country": "JP",
+    "asn": "AS1013"
+  },
+  {
+    "timestamp": "2026-08-01T18:18:00Z",
+    "src_ip": "192.168.1.14",
+    "dst_ip": "192.168.1.11",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00072c411d393",
+    "input_addresses": [
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "output_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      507.36670000000004
+    ],
+    "output_amounts": [
+      507.29
+    ],
+    "fee": 0.0767,
+    "script_type": "P2PKH",
+    "geo_country": "AU",
+    "asn": "AS1014"
+  },
+  {
+    "timestamp": "2026-08-01T19:25:00Z",
+    "src_ip": "192.168.1.10",
+    "dst_ip": "192.168.1.12",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00073c721d770",
+    "input_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "output_addresses": [
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "input_amounts": [
+      272.29290000000003
+    ],
+    "output_amounts": [
+      272.22
+    ],
+    "fee": 0.0729,
+    "script_type": "P2PKH",
+    "geo_country": "US",
+    "asn": "AS1015"
+  },
+  {
+    "timestamp": "2026-08-01T20:32:00Z",
+    "src_ip": "192.168.1.11",
+    "dst_ip": "192.168.1.13",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00074c791d318",
+    "input_addresses": [
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+    ],
+    "output_addresses": [
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "input_amounts": [
+      406.7453
+    ],
+    "output_amounts": [
+      406.7
+    ],
+    "fee": 0.0453,
+    "script_type": "P2PKH",
+    "geo_country": "GB",
+    "asn": "AS1016"
+  },
+  {
+    "timestamp": "2026-08-01T21:39:00Z",
+    "src_ip": "192.168.1.12",
+    "dst_ip": "192.168.1.14",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00075c915d853",
+    "input_addresses": [
+      "bc1qv1n5d7m3x8q6k0c2p4y9u7l5r3m8w1n6k9x3"
+    ],
+    "output_addresses": [
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "input_amounts": [
+      633.4834999999999
+    ],
+    "output_amounts": [
+      633.41
+    ],
+    "fee": 0.0735,
+    "script_type": "P2PKH",
+    "geo_country": "FR",
+    "asn": "AS1017"
+  },
+  {
+    "timestamp": "2026-08-01T22:46:00Z",
+    "src_ip": "192.168.1.13",
+    "dst_ip": "192.168.1.10",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00076c627d779",
+    "input_addresses": [
+      "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3"
+    ],
+    "output_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "input_amounts": [
+      223.64679999999998
+    ],
+    "output_amounts": [
+      223.63
+    ],
+    "fee": 0.0168,
+    "script_type": "P2PKH",
+    "geo_country": "JP",
+    "asn": "AS1018"
+  },
+  {
+    "timestamp": "2026-08-01T23:53:00Z",
+    "src_ip": "192.168.1.14",
+    "dst_ip": "192.168.1.11",
+    "src_port": 8333,
+    "dst_port": 8333,
+    "txid": "00077c938d869",
+    "input_addresses": [
+      "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w"
+    ],
+    "output_addresses": [
+      "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq",
+      "bc1q7p9gk5vhy9nrx0lk2m6n6d3u2q4v9x4m9s0wq3"
+    ],
+    "input_amounts": [
+      779.5668
+    ],
+    "output_amounts": [
+      623.62,
+      155.91
+    ],
+    "fee": 0.0368,
+    "script_type": "P2PKH",
+    "geo_country": "AU",
+    "asn": "AS1019"
+  }
+]

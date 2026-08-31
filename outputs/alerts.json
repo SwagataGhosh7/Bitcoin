@@ -1,0 +1,95 @@
+[
+  {
+    "entity_type": "wallet",
+    "entity_id": "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w",
+    "risk_score": 0.91,
+    "confidence": 0.99,
+    "reasons": [
+      "High IP diversity suggests input-output mixing across multiple peers.",
+      "The wallet repeatedly appears in high-risk geographic routing clusters.",
+      "Transaction frequency is elevated relative to ordinary wallets in the synthetic sample.",
+      "Large outbound value movement is consistent with a cash-out or laundering pattern."
+    ],
+    "evidence": {
+      "tx_count": 44,
+      "unique_ips": 10,
+      "outflow": 45061.48,
+      "inflow": 7428.1,
+      "suspicious_country_ratio": 0.545,
+      "neighbors": [
+        "00000000a5506b5012",
+        "10.10.20.11",
+        "10.10.20.12",
+        "00000004a5557b1106",
+        "10.10.20.15",
+        "00000008a9785b3045",
+        "10.10.20.14",
+        "0000000ca6977b3664",
+        "10.10.20.13",
+        "00000010a4752b1525"
+      ]
+    }
+  },
+  {
+    "entity_type": "wallet",
+    "entity_id": "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3",
+    "risk_score": 0.873,
+    "confidence": 0.986,
+    "reasons": [
+      "High IP diversity suggests input-output mixing across multiple peers.",
+      "The wallet repeatedly appears in high-risk geographic routing clusters.",
+      "Transaction frequency is elevated relative to ordinary wallets in the synthetic sample.",
+      "Large outbound value movement is consistent with a cash-out or laundering pattern."
+    ],
+    "evidence": {
+      "tx_count": 42,
+      "unique_ips": 10,
+      "outflow": 46033.0,
+      "inflow": 7466.35,
+      "suspicious_country_ratio": 0.524,
+      "neighbors": [
+        "00000003a4257b9928",
+        "10.10.20.14",
+        "10.10.20.15",
+        "00000007a6635b5333",
+        "10.10.20.13",
+        "0000000ba4814b2654",
+        "10.10.20.12",
+        "0000000fa4598b6313",
+        "10.10.20.11",
+        "00000013a8517b3340"
+      ]
+    }
+  },
+  {
+    "entity_type": "wallet",
+    "entity_id": "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq",
+    "risk_score": 0.736,
+    "confidence": 0.918,
+    "reasons": [
+      "High IP diversity suggests input-output mixing across multiple peers.",
+      "The wallet repeatedly appears in high-risk geographic routing clusters.",
+      "Transaction frequency is elevated relative to ordinary wallets in the synthetic sample.",
+      "Large outbound value movement is consistent with a cash-out or laundering pattern."
+    ],
+    "evidence": {
+      "tx_count": 43,
+      "unique_ips": 10,
+      "outflow": 43945.46,
+      "inflow": 5109.88,
+      "suspicious_country_ratio": 0.535,
+      "neighbors": [
+        "00000001a9935b2424",
+        "10.10.20.12",
+        "10.10.20.13",
+        "00000005a7924b6574",
+        "10.10.20.11",
+        "00000009a5803b6925",
+        "10.10.20.15",
+        "0000000da5374b2169",
+        "10.10.20.14",
+        "00000011a2084b4456"
+      ]
+    }
+  }
+]

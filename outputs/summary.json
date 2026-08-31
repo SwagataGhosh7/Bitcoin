@@ -1,0 +1,10 @@
+{
+  "dataset": "C:\\Users\\ronty\\OneDrive\\Desktop\\Bitcoin\\data\\synthetic_bitcoin_metadata.json",
+  "alert_count": 3,
+  "top_risk_score": 0.91,
+  "high_priority_alerts": [
+    "bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w",
+    "bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3",
+    "bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq"
+  ]
+}

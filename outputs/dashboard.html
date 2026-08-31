@@ -1,0 +1,67 @@
+
+        <!doctype html>
+        <html lang="en">
+        <head>
+            <meta charset="utf-8">
+            <title>Bitcoin Investigation Dashboard</title>
+            <style>
+                body { font-family: Arial, sans-serif; background: #111827; color: #e5e7eb; margin: 0; padding: 24px; }
+                h1, h2 { color: #f9fafb; }
+                .summary { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 20px; }
+                .card { background: #1f2937; padding: 14px 18px; border-radius: 8px; min-width: 150px; }
+                table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+                th, td { border-bottom: 1px solid #374151; padding: 10px; text-align: left; }
+                th { background: #0f172a; }
+                .badge { display: inline-block; padding: 4px 8px; border-radius: 999px; background: #f59e0b; color: #111827; font-weight: bold; }
+                .reason { color: #cbd5e1; }
+            </style>
+        </head>
+        <body>
+            <h1>Bitcoin Investigation Dashboard</h1>
+            <div class="summary">
+                <div class="card"><strong>Alert count</strong><br>3</div>
+                <div class="card"><strong>Top score</strong><br>0.91</div>
+                <div class="card"><strong>High priority</strong><br>bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w, bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3, bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq</div>
+            </div>
+            <h2>Prioritized Leads</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Entity</th>
+                        <th>Risk</th>
+                        <th>Confidence</th>
+                        <th>Evidence</th>
+                        <th>Why It Was Flagged</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+                    <tr>
+                        <td>bc1q3t5n7w9x1c2p8v6m4r0k7h5y9n3l8q2u4m7w</td>
+                        <td><span class="badge">0.91</span></td>
+                        <td>0.99</td>
+                        <td>Tx: 44 | IPs: 10 | Out: $45061.48</td>
+                        <td class="reason">High IP diversity suggests input-output mixing across multiple peers.<br>The wallet repeatedly appears in high-risk geographic routing clusters.<br>Transaction frequency is elevated relative to ordinary wallets in the synthetic sample.<br>Large outbound value movement is consistent with a cash-out or laundering pattern.<br></td>
+                    </tr>
+                    
+                    <tr>
+                        <td>bc1qx2p6d9n1w7c5z3k9m8u2r4v7l1y6j0t5h9n3</td>
+                        <td><span class="badge">0.873</span></td>
+                        <td>0.986</td>
+                        <td>Tx: 42 | IPs: 10 | Out: $46033.0</td>
+                        <td class="reason">High IP diversity suggests input-output mixing across multiple peers.<br>The wallet repeatedly appears in high-risk geographic routing clusters.<br>Transaction frequency is elevated relative to ordinary wallets in the synthetic sample.<br>Large outbound value movement is consistent with a cash-out or laundering pattern.<br></td>
+                    </tr>
+                    
+                    <tr>
+                        <td>bc1qf9e9h0g5p2x4m8v2j5z4y8n1r3u7l6k9s2wq</td>
+                        <td><span class="badge">0.736</span></td>
+                        <td>0.918</td>
+                        <td>Tx: 43 | IPs: 10 | Out: $43945.46</td>
+                        <td class="reason">High IP diversity suggests input-output mixing across multiple peers.<br>The wallet repeatedly appears in high-risk geographic routing clusters.<br>Transaction frequency is elevated relative to ordinary wallets in the synthetic sample.<br>Large outbound value movement is consistent with a cash-out or laundering pattern.<br></td>
+                    </tr>
+                    
+                </tbody>
+            </table>
+        </body>
+        </html>
+        
