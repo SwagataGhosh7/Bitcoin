@@ -22,8 +22,8 @@ python -m bitcoin_investigator.pipeline
 ## Streamlit frontend
 
 ```bash
-$Env:PYTHONPATH = "C:\Users\ronty\OneDrive\Desktop\Bitcoin\src"
-streamlit run "C:\Users\ronty\OneDrive\Desktop\Bitcoin\streamlit_app.py"
+$Env:PYTHONPATH = "$PWD\src"
+streamlit run ".\streamlit_app.py"
 ```
 
 The frontend lets you launch the pipeline, inspect ranked alerts, and review the supporting evidence for each flagged wallet.
